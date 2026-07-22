@@ -1,0 +1,10 @@
+---
+
+language:
+  docker_image: "ghcr.io/hexlet-basics/exercises-elm"
+  extension: elm
+  exercise_filename: Main.elm
+  exercise_test_filename: Test.elm
+  learn_as: first_language
+  progress: in_development
+  name: Elm
